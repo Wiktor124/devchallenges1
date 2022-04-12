@@ -89,8 +89,8 @@ p {
     "img1 img2 img2"
     "img3 img3 img4"
     "img5 img6 img4";
-  max-width: 350px;
-  min-width: 350px;
+  max-width: 375px;
+  min-width: 375px;
   padding: 0 20px;
   margin: 40px auto;
 }
